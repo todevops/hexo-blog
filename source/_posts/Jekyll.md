@@ -6,9 +6,9 @@ categories:
 tags:
   - ruby
   - jekyll
-  - blog
 ---
 
+使用 jekyll 打造静态博客
 <!-- more -->
 
 ## 1. 安装之前先安装依赖包

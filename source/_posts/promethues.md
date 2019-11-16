@@ -9,6 +9,7 @@ tags:
   - grafana
 ---
 
+开源监控平台 Prometheus
 <!-- more -->
 
 {% asset_img prometheus.jpg prometheus %}

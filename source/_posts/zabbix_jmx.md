@@ -9,6 +9,7 @@ tags:
   - tomcat
 ---
 
+Zabbix 通过 jmx 监控 Tomcat
 <!-- more -->
 
 ## 1. 安装 jdk 和 zabbix-java-gateway

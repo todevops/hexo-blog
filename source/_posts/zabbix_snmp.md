@@ -2,12 +2,12 @@
 title: Zabbix 通过 SNMP 进行监控
 date: 2018-11-15
 categories:
-  - monitor
-tags:
   - linux
+tags:
   - zabbix
 ---
 
+Zabbix 通过 SNMP 进行监控
 <!-- more -->
 
 # SNMP 监控 Linux

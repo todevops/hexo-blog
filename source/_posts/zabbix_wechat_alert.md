@@ -2,13 +2,13 @@
 title: Zabbix 企业微信告警
 date: 2018-11-14
 categories:
-  - monitor
-tags:
   - linux
+tags:
   - zabbix
   - python
 ---
 
+使用 python 编写 Zabbix 企业微信告警脚本
 <!-- more -->
 
 ## 1. 编辑 zabbix_server.conf 配置 zabbix 告警脚本路径

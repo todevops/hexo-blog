@@ -8,6 +8,7 @@ tags:
   - zabbix
 ---
 
+使用 Zabbix Proxy 搭建分布式监控
 <!-- more -->
 
 ## 1. 安装 MySQL、Zabbix Prorxy

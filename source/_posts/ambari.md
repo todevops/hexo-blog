@@ -9,6 +9,7 @@ tags:
   - hadoop
 ---
 
+使用 Ambari 部署 Hadoop 集群
 <!-- more -->
 
 ## 配置本地yum源

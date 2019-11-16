@@ -8,6 +8,7 @@ tags:
   - network
 ---
 
+Linux 网卡设置之聚合链路
 <!-- more -->
 
 broadcast（可将数据传送到所有端口）  

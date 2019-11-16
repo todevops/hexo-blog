@@ -8,6 +8,7 @@ tags:
   - raspberrypi
 ---
 
+树莓派安装教程
 <!-- more -->
 
 ## rasbian 网络配置

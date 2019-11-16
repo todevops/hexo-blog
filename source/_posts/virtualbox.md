@@ -1,5 +1,5 @@
 ---
-title: VirtualBox 遇到的问题
+title: VVirtualBox EFI 引导问题
 date: 2018-11-21
 categories:
   - tools
@@ -7,6 +7,7 @@ tags:
   - virtualbox
 ---
 
+VirtualBox EFI 引导问题
 <!-- more -->
 
 ## 1、引导界面修改

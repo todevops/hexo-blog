@@ -8,6 +8,7 @@ tags:
   - wsl
 ---
 
+Windows Linux 子系统安装指南
 <!-- more -->
 
 ## 安装 [oh-my-zsh](https://ohmyz.sh/)

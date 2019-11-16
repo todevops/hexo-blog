@@ -8,6 +8,7 @@ tags:
   - ftp
 ---
 
+一份简易的 ftp 安装使用教程
 <!-- more -->
 
 ## 1. 安装 vsftpd

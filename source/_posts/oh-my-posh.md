@@ -8,6 +8,7 @@ tags:
   - powershell
 ---
 
+使用 oh-my-posh 美化 PowerShell
 <!-- more -->
 
 英文字体是支持PowerLine的DejaVuSansMono字体，中文字体是文泉驿等宽微米黑字体），并将终端字体设置为支持PowerLine的字体。

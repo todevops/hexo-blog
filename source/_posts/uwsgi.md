@@ -8,6 +8,7 @@ tags:
   - python
 ---
 
+uWSGI 部署 Django 应用
 <!-- more -->
 
 + demo项目的目录结构

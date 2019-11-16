@@ -8,6 +8,7 @@ tags:
   - nodejs
 ---
 
+Node.js 安装指南
 <!-- more -->
 
 https://github.com/creationix/nvm

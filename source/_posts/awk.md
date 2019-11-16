@@ -4,10 +4,10 @@ date: 2018-12-15
 categories:
   - shell
 tags:
-  - linux
   - shell
 ---
 
+Linux 文本处理器之 awk
 <!-- more -->
 
 ```bash

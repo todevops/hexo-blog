@@ -4,10 +4,10 @@ date: 2018-12-06
 categories:
   - linux
 tags:
-  - linux
   - keepalive
 ---
 
+Keepalive 安装与配置
 <!-- more -->
 
 ## 1. 安装 keepalive

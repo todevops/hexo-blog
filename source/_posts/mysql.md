@@ -8,6 +8,7 @@ tags:
   - replication
 ---
 
+MySQL 安装指南
 <!-- more -->
 
 # 1. 安装并初始化数据库

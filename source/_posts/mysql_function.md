@@ -7,6 +7,7 @@ tags:
   - mysql
 ---
 
+MySQL 常用函数
 <!-- more -->
 
 ## 文本处理函数

@@ -4,11 +4,11 @@ date: 2019-02-07 01:31:26
 categories:
   - linux
 tags:
-  - linux
   - Kubernetes
   - docker
 ---
 
+Kubernetes 离线安装
 <!-- more -->
 
 ```bash

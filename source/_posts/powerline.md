@@ -8,6 +8,7 @@ tags:
   - powerline
 ---
 
+使用 Powerline 美化终端
 <!-- more -->
 
 ## 安装 python3

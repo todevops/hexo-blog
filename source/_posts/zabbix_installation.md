@@ -7,7 +7,7 @@ tags:
   - linux
   - zabbix
 ---
-
+Zabbix 3.4 安装指南
 <!-- more -->
 
 ## CentOS 安装 zabbix3.4

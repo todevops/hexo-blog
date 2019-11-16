@@ -1,13 +1,13 @@
 ---
-title: history 添加时间戳
+title: 给 history 添加时间戳
 date: 2018-12-08
 categories:
   - linux
 tags:
-  - linux
   - shell
 ---
 
+给history 添加时间戳
 <!-- more -->
 
 ## 添加环境变量

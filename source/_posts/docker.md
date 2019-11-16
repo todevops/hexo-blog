@@ -4,10 +4,10 @@ date: 2018-12-12
 categories:
   - linux
 tags:
-  - linux
   - docker
 ---
 
+Docker 的安装与使用方法
 <!-- more -->
 
 ## 1. Docker 安装

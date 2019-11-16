@@ -4,10 +4,10 @@ date: 2018-12-10
 categories:
   - linux
 tags:
-  - linux
   - hadoop
 ---
 
+搭建基于 HDFS 碎片文件存储服务
 <!-- more -->
 
 ## 准备 Java 环境

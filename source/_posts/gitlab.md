@@ -3,11 +3,12 @@ title: gitlab-ce 入坑指南
 date: 2019-01-03
 categories:
   - linux
+  - tools
 tags:
-  - linux
   - gitlab
 ---
 
+gitlab 安装使用指南
 <!-- more -->
 
 ## 更新软件包

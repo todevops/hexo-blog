@@ -8,6 +8,7 @@ tags:
   - ubuntu
 ---
 
+Ubuntu Server 网络配置
 <!-- more -->
 
 ## 1. 查看所有网卡信息

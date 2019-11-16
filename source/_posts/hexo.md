@@ -6,9 +6,9 @@ categories:
 tags:
   - hexo
   - nodejs
-  - blog
 ---
 
+使用 Hexo 打造静态博客
 <!-- more -->
 
 ```

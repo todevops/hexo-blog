@@ -4,10 +4,10 @@ date: 2018-12-02
 categories:
   - linux
 tags:
-  - linux
   - network
 ---
 
+Linux 网卡绑定
 <!-- more -->
 
 ## 1. 常见的网卡绑定驱动模式:

@@ -4,11 +4,11 @@ date: 2018-12-17
 categories:
   - linux
 tags:
-  - linux
   - ansible
   - python
 ---
 
+Ansible 自动化运维实战
 <!-- more -->
 
 ## Ad-Hoc命令简介
