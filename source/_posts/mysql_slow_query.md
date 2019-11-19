@@ -1,9 +1,7 @@
 ---
 title: 开启mysql慢查询和死锁日志
 date: 2019-09-15 01:31:26
-categories:
-  - linux
-  - database
+categories: ["database"]
 tags:
   - mysql
 ---

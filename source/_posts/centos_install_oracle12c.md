@@ -1,9 +1,7 @@
 ---
 title: CentOS Oracle 12c 安装指南
 date: 2018-12-14
-categories:
-  - linux
-  - database
+categories: ["database"]
 tags:
   - oracle
 ---

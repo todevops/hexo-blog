@@ -2,9 +2,9 @@
 title: macOS 设置 launchpad 图标大小
 date: 2019-10-15 01:31:26
 categories:
-  - macOS
+  - mac
 tags:
-  - macOS
+  - mac
 ---
 
 KMacOS 设置 launchpad 图标大小

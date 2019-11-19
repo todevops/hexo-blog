@@ -1,9 +1,7 @@
 ---
 title: gitlab-ce 入坑指南
 date: 2019-01-03
-categories:
-  - linux
-  - tools
+categories: ["linux"]
 tags:
   - gitlab
 ---
