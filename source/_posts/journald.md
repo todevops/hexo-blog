@@ -1,16 +1,12 @@
 ---
-title: journald 指南
+title: Journald 指南
 date: 2019-12-31
 lastmod: 2020-01-01
 categories:
   - linux
 tags:
   - systemd
-  - journald
 ---
-
-journald （systemd 日志管理服务）
-<!--more-->
 
 ### 1. journald 服务
 

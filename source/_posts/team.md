@@ -1,15 +1,11 @@
 ---
-title: Red Hat Enterprise Linux 7 配置网络成组
+title: RHEL 7 配置网络成组
 date: 2020-01-15
 categories:
   - linux
 tags:
-  - network
+  - nmcli
 ---
-
-网络成组旨在通过提供小内核驱动程序，以便使用不同的方法应用这个概念，实现数据包流的快速处理，并让各种用户空间应用程序在用户空间执行各种任务。
-<!--more-->
-
 
 ## 网络成组和绑定对比
 

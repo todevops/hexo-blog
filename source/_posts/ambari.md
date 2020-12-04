@@ -4,8 +4,6 @@ date: 2018-12-18
 categories:
   - linux
 tags:
-  - linux
-  - ambari
   - hadoop
 ---
 

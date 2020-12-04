@@ -1,9 +1,11 @@
 ---
-title: LeetCode每日一题（罗马数字转整数）
+title: LeetCode（罗马数字转整数）
 date: 2019-12-18
 lastmod: 2019-12-18
-categories: ["go"]
-tags: ["go"]
+categories:
+  - golang
+tags:
+  - golang
 ---
 
 LeetCode每日一题（罗马数字转整数）[https://leetcode-cn.com/problems/roman-to-integer/](https://leetcode-cn.com/problems/roman-to-integer/)

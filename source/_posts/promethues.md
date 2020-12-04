@@ -4,9 +4,7 @@ date: 2019-02-27 19:59:14
 categories:
   - monitor
 tags:
-  - linux
   - prometheus
-  - grafana
 ---
 
 开源监控平台 Prometheus

@@ -1,12 +1,11 @@
 ---
 title: Filebeat 指南
 date: 2019-11-19 00:56:12
+categories:
+  - linux
 tags:
+  - elasticsearch
 ---
-
-使用 filebeat 进行日志抓取
-<!--more-->
-
 
 ## 配置 Filebeat
 ### 日志输入

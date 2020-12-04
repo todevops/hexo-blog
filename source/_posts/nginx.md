@@ -7,10 +7,6 @@ tags:
   - nginx
 ---
 
-Nginx 的安装以及相关配置
-<!--more-->
-
-
 ## Nginx 安装
 ### 1. yum 源安装
 + epel 源

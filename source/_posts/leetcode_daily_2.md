@@ -1,9 +1,11 @@
 ---
-title: LeetCode每日一题（整数反转）
+title: LeetCode（整数反转）
 date: 2019-12-17
 lastmod: 2019-12-18
-categories: ["go"]
-tags: ["go"]
+categories:
+  - golang
+tags:
+  - golang
 ---
 
 LeetCode每日一题（整数反转）[https://leetcode-cn.com/problems/reverse-integer/](https://leetcode-cn.com/problems/reverse-integer/)

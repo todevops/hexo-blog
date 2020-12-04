@@ -1,10 +1,10 @@
 ---
 title: MySQL 组复制
 date: 2019-01-30 12:24:39
-categories: ["database"]
+categories:
+  - database
 tags:
   - mysql
-  - mgr
 ---
 
 MySQL 组复制

@@ -5,7 +5,6 @@ categories:
   - linux
 tags:
   - linux
-  - network
 ---
 
 Linux 网络管理

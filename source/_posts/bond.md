@@ -1,14 +1,11 @@
 ---
-title: Red Hat Enterprise Linux 7 配置网络绑定
+title: RHEL 7 配置网络绑定
 date: 2020-01-15
 categories:
   - linux
 tags:
-  - network
+  - nmcli
 ---
-
-频道绑定可让两个或多个接口作为一个接口动作， 同时增加带宽，并提供冗余。
-<!--more-->
 
 ## 1. 常见的网卡绑定驱动模式:
 

@@ -1,7 +1,10 @@
 ---
 title: 将 Nginx 日志格式化成 json
 date: 2019-11-19 17:27:38
+categories:
+  - linux
 tags:
+  - nginx
 ---
 
 将 Nginx 日志格式化成 json 格式

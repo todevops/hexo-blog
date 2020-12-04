@@ -5,7 +5,6 @@ categories:
   - database
 tags:
   - mysql
-  - replication
 ---
 
 MySQL 安装指南

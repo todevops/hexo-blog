@@ -4,7 +4,6 @@ date: 2018-12-17
 categories:
   - linux
 tags:
-  - ansible
   - python
 ---
 

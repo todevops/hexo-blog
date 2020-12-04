@@ -4,7 +4,6 @@ date: 2018-11-30
 categories:
   - linux
 tags:
-  - linux
   - lvs
 ---
 

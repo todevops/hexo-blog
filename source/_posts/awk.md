@@ -2,13 +2,12 @@
 title: Linux 文本处理器之 awk
 date: 2018-12-15
 categories:
-  - shell
+  - linux
 tags:
+  - linux
   - shell
 ---
 
-Linux 文本处理器之 awk
-<!--more-->
 
 ```bash
 awk  'BEGIN{FS="[:]"} {aa+=$3} END{print "所用的UID的和是:",aa}' passwd

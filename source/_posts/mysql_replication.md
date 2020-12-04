@@ -1,7 +1,8 @@
 ---
 title: 基于 GTID 的 MySQL 双主安装及配置
 date: 2019-09-15 01:31:26
-categories: ["database"]
+categories:
+  - database
 tags:
   - mysql
 ---

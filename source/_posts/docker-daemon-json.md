@@ -1,12 +1,12 @@
 ---
 title: Docker /etc/docker/daemon.json 文件的参数
 date: 2019-11-20 17:25:46
+categories:
+  - linux
 tags:
+  - docker
+  - linux
 ---
-
-Docker /etc/docker/daemon.json 文件的参数清单
-<!--more-->
-
 
 ```json
 {

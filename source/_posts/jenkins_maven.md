@@ -1,14 +1,12 @@
 ---
 title: Jenkins使用Maven构建Java应用程序
 date: 2019-12-16
-categories: ["tools"]
+categories:
+  - tools
 tags:
-  - jenkins
+  - CI/CD
   - docker
 ---
-
-Jenkins使用Maven构建简单的Java应用程序
-<!--more-->
 
 ## 安装 Jenkins
 

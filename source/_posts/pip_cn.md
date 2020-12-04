@@ -4,7 +4,6 @@ date: 2019-09-15 01:31:26
 categories:
   - python
 tags:
-  - pip
   - python
 ---
 

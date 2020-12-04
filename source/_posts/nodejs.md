@@ -4,7 +4,6 @@ date: 2018-11-27
 categories:
   - linux
 tags:
-  - linux
   - nodejs
 ---
 

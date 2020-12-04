@@ -30,9 +30,6 @@ menu:
   - name: 归档
     slug: archives
     url: /archives
-  - name: 测试
-    slug: gallery
-    url: /
   - name: 关于
     slug: about
     url: /about
@@ -40,9 +37,9 @@ menu:
 # widgets
 widgets:
   # - about
-  - links
   - categories
   - tags
+  - links
 
 # Less
 less:
@@ -52,5 +49,5 @@ less:
 social:
 - slug: github
   url: https://github.com/todevops
-- slug: rss
-	url: /atom.xml
+# - slug: rss
+# 	url: /atom.xml

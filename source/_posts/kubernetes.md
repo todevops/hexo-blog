@@ -8,9 +8,6 @@ tags:
   - docker
 ---
 
-Kubernetes 离线安装
-<!--more-->
-
 IPADDRESS | HOSTNAME | ENVIROMENT | KERNEL
 ---|---|---|---
 192.168.33.50 | k8smaster | CentOS 7 | 5.3.7-1.el7.elrepo.x86_64

@@ -4,12 +4,8 @@ date: 2019-12-20
 categories:
   - linux
 tags:
-  - jenkins
   - CI/CD
 ---
-
-简单的介绍 Jenkins 的安装与使用
-<!--more-->
 
 ## Jenkins 安装
 ### 方法1. 使用 yum 安装（Redhat/CentOS/Fedora）

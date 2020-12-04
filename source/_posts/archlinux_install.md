@@ -4,7 +4,7 @@ date: 2018-12-16
 categories:
   - linux
 tags:
-  - archlinux
+  - linux
 ---
 
 Arch Linux 安装指南

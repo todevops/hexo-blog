@@ -1,14 +1,12 @@
 ---
 title: Jenkins使用PyInstaller构建Python应用
 date: 2019-12-16
-categories: ["tools"]
+categories:
+  - tools
 tags:
-  - jenkins
+  - CI/CD
   - docker
 ---
-
-Jenkins使用PyInstaller构建Python应用
-<!--more-->
 
 ## 在Jenkins中创建流水线项目
 ```shell

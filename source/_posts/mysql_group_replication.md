@@ -1,7 +1,8 @@
 ---
 title: MySQL Group Replication 安装及配置
 date: 2019-10-15 01:31:26
-categories: ["database"]
+categories:
+  - database
 tags:
   - mysql
 ---

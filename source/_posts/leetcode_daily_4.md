@@ -1,9 +1,11 @@
 ---
-title: LeetCode每日一题（最长公共前缀）
+title: LeetCode（最长公共前缀）
 date: 2019-12-19
 lastmod: 2019-12-19
-categories: ["go"]
-tags: ["go"]
+categories:
+  - golang
+tags:
+  - golang
 ---
 
 LeetCode每日一题（罗马数字转整数）[https://leetcode-cn.com/problems/longest-common-prefix/](https://leetcode-cn.com/problems/longest-common-prefix/)

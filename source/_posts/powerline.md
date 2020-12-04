@@ -5,7 +5,6 @@ categories:
   - tools
 tags:
   - linux
-  - powerline
 ---
 
 使用 Powerline 美化终端

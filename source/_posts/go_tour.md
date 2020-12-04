@@ -1,13 +1,11 @@
 ---
 title: Go Tour 练习
 date: 2019-12-15
-categories: ["go"]
+categories:
+  - golang
 tags:
   - golang
 ---
-
-Go 指南练习，题解
-<!--more-->
 
 ## 练习 1：[循环与函数](https://tour.go-zh.org/flowcontrol/8)
 

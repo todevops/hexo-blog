@@ -4,7 +4,6 @@ date: 2018-12-09
 categories:
   - tools
 tags:
-  - hexo
   - nodejs
 ---
 

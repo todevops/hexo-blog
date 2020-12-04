@@ -1,8 +1,10 @@
 ---
-title: LeetCode每日一题（两数之和）
+title: LeetCode（两数之和）
 date: 2019-12-16
-categories: ["go"]
-tags: ["go"]
+categories:
+  - golang
+tags:
+  - golang
 ---
 
 LeetCode每日一题（两数之和）[https://leetcode-cn.com/problems/two-sum/](https://leetcode-cn.com/problems/two-sum/)

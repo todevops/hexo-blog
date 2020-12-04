@@ -7,9 +7,6 @@ tags:
   - hadoop
 ---
 
-搭建基于 HDFS 碎片文件存储服务
-<!--more-->
-
 ## 准备 Java 环境
 ```bash
 yum -y install java-1.8.0-openjdk*

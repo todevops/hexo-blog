@@ -2,7 +2,7 @@
 title: Zabbix 企业微信告警
 date: 2018-11-14
 categories:
-  - linux
+  - monitor
 tags:
   - zabbix
   - python

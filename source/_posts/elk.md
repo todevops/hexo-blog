@@ -1,12 +1,11 @@
 ---
 title: 使用 ELK 搭建日志分析系统
 date: 2019-11-19 13:22:39
+categories:
+  - linux
 tags:
+  - elasticsearch
 ---
-
-使用 ELK 搭建日志分析系统
-<!--more-->
-
 
 ```
 cat << EOF >> /etc/security/limits.conf
